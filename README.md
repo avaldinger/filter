@@ -25,9 +25,9 @@ To run the program:
  
  Libraries:
  * stdio.h
- * <math.h>
- * <getopt.h>
- * <stdbool.h>
+ * math.h
+ * getopt.h
+ * stdbool.h
  * string.h
  * ctype.h
  * stdlib.h
