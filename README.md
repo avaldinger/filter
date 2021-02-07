@@ -15,10 +15,10 @@ Image filter program written in C. The aim of the application is to apply differ
 
 ### Setup
 
-The application can be ran locally or using the [![CS50 Badge](https://img.shields.io/badge/-CS50-red)](https://cs50.harvard.edu) <a href="https://ide.cs50.io">IDE</a> after logging in with your GitHub account.
+The application can be run locally or using the [![CS50 Badge](https://img.shields.io/badge/-CS50-red)](https://cs50.harvard.edu) <a href="https://ide.cs50.io">IDE</a> after logging in with your GitHub account.
 
 To run the program:
- 1. It needs to be complied: `$ make filter`
+ 1. It needs to be compiled: `$ make filter`
  2. Started with the selected key as an argument: `$ ./filter -g/r/s/b (depending on the filter chosen) images/yard.bmp out.bmp`
  
 ### Technologies
